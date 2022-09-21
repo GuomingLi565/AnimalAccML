@@ -1,3 +1,5 @@
+The link for this dataset is from https://zenodo.org/record/5399259#.YscGZ3bMK3A
+
 This data set contains tri-axial accelerometer sensor data with thirteen different labeled cow behaviors. This data was gathered with a 16bit +/- 2g Kionix KX122-1037 accelerometer attached to the neck of six different Japanese Black Beef Cows at a cow farm of Shinshu University in Nagano, Japan.
 	
 The data gathering took place over the course of two days in which the cows were allowed to roam freely in two different areas, namely, a grass field and farm pens, while being filmed with Sony FDR-X3000 4K video cameras.
