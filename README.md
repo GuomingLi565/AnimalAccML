@@ -1,6 +1,6 @@
 AnimalAccM is an open-source graphical user interface for automated behavior analytics of individual animals using triaxial accelerometers and machine learning. Details of this platform is presented in the following manuscript.
 
-Guoming Li and Lilong Chai. (2023). "AnimalAccML: An open-source graphical user interface for automated behavior analytics of individual animals using triaxial accelerometers and machine learning". Computers and Electronics in Agriculture.
+_Guoming Li and Lilong Chai. (2023). "AnimalAccML: An open-source graphical user interface for automated behavior analytics of individual animals using triaxial accelerometers and machine learning". Computers and Electronics in Agriculture._
 
 Python packages required: _pandas, pathlib, glob, matplotlib, seaborn, sklearn, train_test_split, joblib, math, imblearn, sys, PyQt5, os, shutil_
 
