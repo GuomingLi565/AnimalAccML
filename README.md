@@ -1,6 +1,7 @@
 AnimalAccM is an open-source graphical user interface for automated behavior analytics of individual animals using triaxial accelerometers and machine learning.
   
 An example for the operation procedures:
+
 Step 1: Run the ‘MainWindow.py’ file and launch the interface. ‘Home’ page shows up.
 Step 2: Click button ‘Manage Project’ to switch the page. If a new project will be created, go to step 3. If the project is existing, go to step 4.
 Step 3: Click button ‘Project name’ and input a project name; click button ‘Experimenter name’ and input an experimenter name; click button ‘Date (MMDDYY)’ and input a project date; click button ‘Row data directory’ and input a path of data for model development. Finally click button ‘Create the project’ to create a new project.
